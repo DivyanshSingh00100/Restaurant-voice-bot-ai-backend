@@ -1,0 +1,2 @@
+ESCALATION_TRANSITION_MESSAGE = "I'm not able to help with that, let me connect you with a member of our team."
+ESCALATION_CLOSING_MESSAGE = "Thank you for your patience, please hold while I transfer your call."
